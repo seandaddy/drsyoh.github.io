@@ -1,5 +1,8 @@
-Multiple Regression
-================
+---
+layout: post
+title: Multiple Regression
+output: github_document
+---
 
 ## Analysis and Interpretation
 
