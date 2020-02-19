@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Two-Way ANOVA
+title: Two-Way ANOVA : SAT scores by Gender and Schools
 output: github_document
 ---
 
