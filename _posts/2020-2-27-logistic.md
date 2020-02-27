@@ -17,7 +17,7 @@ for that outcome.
 
 The logistic regression has a formula as follows:
 
-$ log \frac{p}{1-p} =\beta X. $
+$ log \frac{p}{1-p} = X \beta. $
 
 So you need to transformation to get the estimated odds ratio by taking
 an exponential function to the coefficients.
