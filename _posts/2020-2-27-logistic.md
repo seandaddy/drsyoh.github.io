@@ -1,6 +1,6 @@
 ---
 layout: post
-title: ANCOVA
+title: Logistic Regression
 output: github_document
 ---
 
