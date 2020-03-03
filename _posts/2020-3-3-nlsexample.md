@@ -1,6 +1,6 @@
 ---
 layout: post
-title: nonlinear regression
+title: Nonlinear Regression
 output: github_document
 ---
 
