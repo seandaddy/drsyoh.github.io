@@ -3,7 +3,7 @@ layout: post
 title: 공공재의 사적 공급에 따른 위험
 output: github_document
 ---
-![](https://illuminatisymbols.info/wp-content/uploads/illuminati-symbols-Starbucks-Coffee-Logo.gif x250)
+![](https://illuminatisymbols.info/wp-content/uploads/illuminati-symbols-Starbucks-Coffee-Logo.gif x100)
 
 2018년 5월 스타벅스는 미국내 모든 매장에서 그들의 제품을 구매하지 않은 사람에게도  매장의 의자와 탁자는 물론 화장실까지 사용할 수 있도록 방침을 바꾸었다. 스타벅스는 경제학적으로 커피와 음료 그리고 각종 디저트를 판매하고 자신들의 고객이 매장에서 시간을 보낼 수 있는 서비스를 제공하는 생산자로 볼 수 있다. 이런 사적 기업이 자신들의 공간을 이용할 수 있는 서비스를 일반 시민들에게 제공함으로써 공공재의 사적 공급이라는 행동을 취하고 있는 것으로 보인다.
 
